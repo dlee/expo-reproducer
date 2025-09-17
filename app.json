@@ -23,6 +23,9 @@
       "predictiveBackGestureEnabled": false,
       "package": "com.playground.app"
     },
+    "androidNavigationBar": {
+      "enforceContrast": false
+    },
     "web": {
       "output": "static",
       "favicon": "./assets/images/favicon.png"
@@ -30,14 +33,6 @@
     "plugins": [
       "expo-router",
       "expo-system-ui",
-      [
-        "@zoontek/react-native-navigation-bar",
-        {
-          "android": {
-            "enforceNavigationBarContrast": false
-          }
-        }
-      ],
       [
         "expo-splash-screen",
         {

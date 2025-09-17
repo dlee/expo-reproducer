@@ -3397,16 +3397,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@zoontek/react-native-navigation-bar@npm:^1.0.1":
-  version: 1.0.1
-  resolution: "@zoontek/react-native-navigation-bar@npm:1.0.1"
-  peerDependencies:
-    react: "*"
-    react-native: "*"
-  checksum: 8481b4f3257310822771a310b58d75f26b32693b3f8502a243f89792844d7fa7760fb8b27dee1c76f790f067f3163ccecbabda4fd1ab8f9e6cd4924aa9fe286a
-  languageName: node
-  linkType: hard
-
 "abbrev@npm:^3.0.0":
   version: 3.0.1
   resolution: "abbrev@npm:3.0.1"
@@ -8513,7 +8503,6 @@ __metadata:
     "@types/react": "npm:~19.1.13"
     "@types/react-dom": "npm:~19.1.9"
     "@types/react-test-renderer": "npm:^19.1.0"
-    "@zoontek/react-native-navigation-bar": "npm:^1.0.1"
     babel-plugin-inline-import: "npm:^3.0.0"
     babel-plugin-react-compiler: "npm:^19.1.0-rc.3"
     babel-preset-expo: "npm:~54.0.1"
